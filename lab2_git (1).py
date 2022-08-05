@@ -69,7 +69,7 @@ def get_factorial(value: int):
 
 
 def get_rand():
-    my_randint = random.randint(0,101)
+    my_randint = random.randint(0,200)
     return my_randint
 
 
